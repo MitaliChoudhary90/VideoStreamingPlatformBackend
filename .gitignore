@@ -119,6 +119,4 @@ dist
 
 # End of https://mrkandreev.name/snippets/gitignore-generator/#Node
 
-.gitignore
-.package-lock.json
-.package.json
+
